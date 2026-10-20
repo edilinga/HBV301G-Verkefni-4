@@ -1,13 +1,16 @@
-# Verkefni 4 – Söfnun krafna
+# Verkefni 4 – Kröfusöfnun og notkunartilvik
 
-Þetta repo er Template repo - Notaðu "Use this template" til að búa til þitt eigið repo
-fyrir verkefni 3. Uppfærðu þetta README skjal til að lýsa repo-inu þínu, hverjir eru höfundar o.s.frv. 
+**Teymi:** Inga og Gabríel
 
-Í þessu repo eru þrjár aðalskrár sem þið fyllið út:
+**Höfundar:** Edil Inga Kristjánsdóttir og Gabríel Orri Karlsson
 
-- `elicitation-plan.md` – áætlun fyrir kröfugreiningarfund (um ½ bls).
-- `requirements.md` – flokkuð samantekt á kröfum (um 1 bls).
-- `use-case.md` – ítarlegur fully dressed use case (um 1 bls).
-- `vinnuferli.md` - verkaskipting, ígrundun og gagnsæisyfirlýsing 
+## Um þetta repository
 
+Þetta repository inniheldur vinnu við kröfusöfnun og greiningu á notendakröfum og notkunartilvikum fyrir hugbúnaðarkerfið **Kerfisskrá**. Markmið verkefnisins var að afla upplýsinga um þarfir viðskiptavinar með viðtali og vinna úr þeim skýrar kröfur og notkunartilvik.
 
+### Skipulag mappna og skráa
+
+* **`elicitation-plan.md`**: Áætlun fyrir kröfusöfnunarviðtal, markmið þess, spurningar, hlutverk og tímasetningar.
+* **`requirements.md`**: Niðurstöður kröfusöfnunar, þar á meðal notendakröfur, viðskiptareglur og atriði sem þarf að skoða nánar.
+* **`use-case.md`**: Helstu notkunartilvik kerfisins og ítarleg lýsing á einu mikilvægu notkunartilviki.
+* **`Vinnuferli.md`**: Lýsing á verkaskiptingu, vinnuferli í GitHub, endurmati og notkun gervigreindar.
