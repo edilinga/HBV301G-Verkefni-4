@@ -61,7 +61,6 @@ Hvernig verður tryggt að starfsmannaupplýsingar séu réttar og uppfærðar?
 Hversu oft þarf að yfirfara upplýsingarnar?
 
 ## Dagskrá/Tímalína
-## Dagskrá/Tímalína
 
 | Tími | Viðfangsefni |
 |---|---|
@@ -81,8 +80,6 @@ Niðurstöður viðtalsins eru skráðar í formi spurninga og svara. Að viðta
 Niðurstöðurnar verða notaðar til að skilgreina notendakröfur í requirements.md og notkunartilvik í use-case.md.
 
 Óljós atriði verða skráð sérsta
-
-## Áhætta sem getur hindrað kröfusöfnun 
 
 ## Áhætta sem getur hindrað kröfusöfnun
 
